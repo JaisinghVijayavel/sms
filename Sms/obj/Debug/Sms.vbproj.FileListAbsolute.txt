@@ -1,0 +1,138 @@
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\bin\Debug\Sms.exe
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\bin\Debug\Sms.pdb
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\bin\Debug\Sms.xml
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.vbproj.ResolveComReference.cache
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmChngPwd.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmDeleteFile.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmImport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmImportAll.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmImportEcs.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmImportEcsDividend.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmImportEcsSuccess.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmImportFinacle.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmImportNotepad.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmLogin.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmMain.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmMapRejectWithFinacle.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmMapSuccessWithFinacle.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmMergeLines.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmNameMaster.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmPostAcc.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmPosting.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmRights.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmServerConfiguration.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmTranKo.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmQuickView.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmSearch.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmUndoKo.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmUpdateReject.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmUpdateSuccess.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmUserAuth.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmUserMaster.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmUserSetPwd.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmView.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmXLTemplateFldMap.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.Resources.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmAccBalanceReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmAccMasterReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmAccMultipleReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmAccRecon.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmDividendReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmEmployeeReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmErrLineReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmFailureReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmAccBalanceMatch.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmFileReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmKoReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmQryReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmRejectReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmSuccessReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmTranReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmUserAuthReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmUserManagementReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.vbproj.GenerateResource.Cache
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.exe
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.xml
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.pdb
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\Sms.frmSenderMaster.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.vbproj.ResolveComReference.cache
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.exe
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.xml
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.pdb
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.vbprojResolveAssemblyReference.cache
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmChngPwd.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmDeleteFile.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmImport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmLogin.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmMain.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmNameMaster.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmRights.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmServerConfiguration.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmQuickView.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmSearch.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUserAuth.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUserMaster.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUserSetPwd.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmView.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.Resources.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmEmployeeReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmFileReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmTranReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUserAuthReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUserManagementReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.vbproj.GenerateResource.Cache
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\bin\Debug\Sms.exe
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\bin\Debug\Sms.pdb
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\bin\Debug\Sms.xml
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmSenderMaster.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmSmsTemplateMaster.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUpload.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUploadDelete.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUploadReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmFieldMapping.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\bin\Debug\Newtonsoft.Json.dll
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\bin\Debug\Newtonsoft.Json.xml
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmSendSms.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmXlTemplateMaster.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmSmsMis.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmErrLineReport.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.vbproj.ResolveComReference.cache
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.exe
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.xml
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.pdb
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.vbprojResolveAssemblyReference.cache
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmChngPwd.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmDeleteFile.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmFieldMapping.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmImport.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmLogin.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmMain.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmNameMaster.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmRights.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmSenderMaster.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmSendSms.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmServerConfiguration.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmSmsTemplateMaster.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmQuickView.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmSearch.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUpload.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUploadDelete.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUserAuth.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUserMaster.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUserSetPwd.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmView.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmXlTemplateMaster.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.Resources.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmEmployeeReport.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmErrLineReport.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmFileReport.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmSmsMis.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmTranReport.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUploadReport.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUserAuthReport.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.frmUserManagementReport.resources
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\obj\Debug\Sms.vbproj.GenerateResource.Cache
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\bin\Debug\Sms.exe
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\bin\Debug\Sms.pdb
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\bin\Debug\Sms.xml
+D:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Sms\bin\Debug\Newtonsoft.Json.dll

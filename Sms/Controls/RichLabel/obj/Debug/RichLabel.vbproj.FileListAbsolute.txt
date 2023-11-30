@@ -1,0 +1,16 @@
+C:\Users\gnsa\Desktop\del\sriram\TestRichLabel\TestRichLabel\RichLabel\bin\Debug\RichLabel.dll
+C:\Users\gnsa\Desktop\del\sriram\TestRichLabel\TestRichLabel\RichLabel\bin\Debug\RichLabel.pdb
+C:\Users\gnsa\Desktop\del\sriram\TestRichLabel\TestRichLabel\RichLabel\bin\Debug\RichLabel.xml
+C:\Users\gnsa\Desktop\del\sriram\TestRichLabel\TestRichLabel\RichLabel\obj\Debug\RichLabel.Resources.resources
+C:\Users\gnsa\Desktop\del\sriram\TestRichLabel\TestRichLabel\RichLabel\obj\Debug\RichLabel.vbproj.GenerateResource.Cache
+C:\Users\gnsa\Desktop\del\sriram\TestRichLabel\TestRichLabel\RichLabel\obj\Debug\RichLabel.dll
+C:\Users\gnsa\Desktop\del\sriram\TestRichLabel\TestRichLabel\RichLabel\obj\Debug\RichLabel.xml
+C:\Users\gnsa\Desktop\del\sriram\TestRichLabel\TestRichLabel\RichLabel\obj\Debug\RichLabel.pdb
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\Controls\RichLabel\bin\Debug\RichLabel.dll
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\Controls\RichLabel\bin\Debug\RichLabel.pdb
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\Controls\RichLabel\bin\Debug\RichLabel.xml
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\Controls\RichLabel\obj\Debug\RichLabel.Resources.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\Controls\RichLabel\obj\Debug\RichLabel.vbproj.GenerateResource.Cache
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\Controls\RichLabel\obj\Debug\RichLabel.dll
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\Controls\RichLabel\obj\Debug\RichLabel.xml
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\Controls\RichLabel\obj\Debug\RichLabel.pdb

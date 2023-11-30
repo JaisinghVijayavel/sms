@@ -1,0 +1,235 @@
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\bin\Debug\DividendRecon.exe
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\bin\Debug\DividendRecon.pdb
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\bin\Debug\DividendRecon.xml
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.vbprojResolveAssemblyReference.cache
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.vbproj.ResolveComReference.cache
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccMaster.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmChngPwd.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmDeleteFile.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportAll.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportEcs.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportEcsDividend.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportEcsSuccess.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportFinacle.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportNotepad.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmLogin.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmMain.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmMapRejectWithFinacle.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmMapSuccessWithFinacle.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmNameMaster.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmPostAcc.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmPosting.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmRights.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmServerConfiguration.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmTranKo.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmQuickView.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmSearch.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUndoKo.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUpdateReject.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUpdateSuccess.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserAuth.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserMaster.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserSetPwd.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmView.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.Resources.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccBalanceReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccMasterReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccMultipleReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccRecon.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmDividendReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmEmployeeReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmErrLineReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmFailureReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccBalanceMatch.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmFileReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmKoReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmQryReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmRejectReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmSuccessReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmTranReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserAuthReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserManagementReport.resources
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.vbproj.GenerateResource.Cache
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.exe
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.xml
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\obj\Debug\DividendRecon.pdb
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\bin\Debug\RichLabel.dll
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\bin\Debug\RichLabel.pdb
+D:\user\Vijayavel\vss\nmr\Vijay\Axis\Dividend Recon\bin\Debug\RichLabel.xml
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\bin\Debug\DividendRecon.exe
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\bin\Debug\DividendRecon.pdb
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\bin\Debug\DividendRecon.xml
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\bin\Debug\RichLabel.pdb
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\bin\Debug\RichLabel.xml
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.vbprojResolveAssemblyReference.cache
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.vbproj.ResolveComReference.cache
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccMaster.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmChngPwd.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmDeleteFile.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportAll.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportEcs.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportEcsDividend.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportEcsSuccess.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportFinacle.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportNotepad.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmLogin.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmMain.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmMapRejectWithFinacle.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmMapSuccessWithFinacle.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmMergeLines.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmNameMaster.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmPostAcc.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmPosting.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmRights.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmServerConfiguration.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmTranKo.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmQuickView.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmSearch.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUndoKo.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUpdateReject.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUpdateSuccess.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserAuth.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserMaster.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserSetPwd.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmView.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.Resources.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccBalanceReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccMasterReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccMultipleReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccRecon.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmDividendReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmEmployeeReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmErrLineReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmFailureReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccBalanceMatch.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmFileReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmKoReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmQryReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmRejectReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmSuccessReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmTranReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserAuthReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserManagementReport.resources
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.vbproj.GenerateResource.Cache
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.exe
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.xml
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.pdb
+D:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmXLTemplateFldMap.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\bin\Debug\DividendRecon.exe
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\bin\Debug\DividendRecon.pdb
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\bin\Debug\DividendRecon.xml
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.vbprojResolveAssemblyReference.cache
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.vbproj.ResolveComReference.cache
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccMaster.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmChngPwd.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmDeleteFile.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportAll.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportEcs.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportEcsDividend.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportEcsSuccess.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportFinacle.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmImportNotepad.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmLogin.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmMain.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmMapRejectWithFinacle.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmMapSuccessWithFinacle.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmMergeLines.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmNameMaster.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmPostAcc.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmPosting.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmRights.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmServerConfiguration.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmTranKo.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmQuickView.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmSearch.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUndoKo.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUpdateReject.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUpdateSuccess.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserAuth.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserMaster.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserSetPwd.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmView.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmXLTemplateFldMap.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.Resources.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccBalanceReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccMasterReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccMultipleReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccRecon.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmDividendReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmEmployeeReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmErrLineReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmFailureReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmAccBalanceMatch.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmFileReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmKoReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmQryReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmRejectReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmSuccessReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmTranReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserAuthReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.frmUserManagementReport.resources
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.vbproj.GenerateResource.Cache
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.exe
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.xml
+E:\user\Vijayavel\Work At Home\vss\Axis\Dividend Recon\obj\Debug\DividendRecon.pdb
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.vbproj.ResolveComReference.cache
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.exe
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.xml
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.pdb
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.vbprojResolveAssemblyReference.cache
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmAccMaster.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmChngPwd.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmDeleteFile.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmImport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmImportAll.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmImportEcs.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmImportEcsDividend.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmImportEcsSuccess.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmImportFinacle.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmImportNotepad.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmLogin.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmMain.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmMapRejectWithFinacle.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmMapSuccessWithFinacle.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmMergeLines.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmNameMaster.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmPostAcc.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmPosting.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmRights.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmServerConfiguration.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmTranKo.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmQuickView.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmSearch.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmUndoKo.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmUpdateReject.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmUpdateSuccess.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmUserAuth.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmUserMaster.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmUserSetPwd.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmView.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmXLTemplateFldMap.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.Resources.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmAccBalanceReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmAccMasterReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmAccMultipleReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmAccRecon.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmDividendReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmEmployeeReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmErrLineReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmFailureReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmAccBalanceMatch.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmFileReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmKoReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmQryReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmRejectReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmSuccessReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmTranReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmUserAuthReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.frmUserManagementReport.resources
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\obj\Debug\DividendRecon.vbproj.GenerateResource.Cache
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\bin\Debug\DividendRecon.exe
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\bin\Debug\DividendRecon.pdb
+E:\user\Vijayavel\Work At Home\vss\GNSA\SMS\Dividend Recon\bin\Debug\DividendRecon.xml
